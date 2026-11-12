@@ -3,8 +3,9 @@ Aplicación de consola en Python para un centro técnico de sensores ambientales
 
 # Configuracion inicial:
 1. Installar Python.
-2. Descargar el proyecto aquí adjunto (proyectofinal.py).
-3. Preparar la base de datos local: ubica los archivos equipos.csv, servicios.csv, repuestos.csv, en la misma carpeta principal (que llamamos proyectofinal) que el script. También las carpetas ordenes_abiertas y ordenes_cerradas. 
+2. Descargar la carpeta proyectofinal 1.zip
+3. Extraer en el computador el archivo .zip
+4. Dentro del VSC ya se podrá abrir la carpeta que queda de la extracción: proyectofinal
 # De todas formas para más facilidad, en la carpeta .zip ya vienen todos los archivos necesarios para correr el programa.
 
 # Estructura de archivos:
