@@ -12,12 +12,13 @@ Aplicación de consola en Python para un centro técnico de sensores ambientales
 2. El archivo servicios.csv contiene codigo (S01, S02...), descripcion, costo_fijo, costo_movil.
 3. El archivo repuestos.csv contiene codigo(R01, R02...), descripcion, costo_compra, precio_venta, stock (cuántos disponibles).
 4. Se necesitan también dos carpetas para ir registrando allí los .txt según las órdenes que se vayan trabajando y posteriormente cerrando:
-4.1 ordenes_abiertas
+   
+- ordenes_abiertas
   Registro delimitado por |: ORDEN, SERVICIO, REPUESTO, PRUEBA
   ORDEN|OT001|EQ01|2026-11-10|ABIERTA
   SERVICIO|S01|60000
   REPUESTO|R01|2|15000|8000
   PRUEBA|INICIAL|8.0
-4.2 ordenes_cerradas
+- ordenes_cerradas
   ordenes_cerradas/  ·  columnas: Directorio de órdenes finalizadas; una orden cerrada conserva historial íntegro.
   (archivos OTxxxx.txt)
