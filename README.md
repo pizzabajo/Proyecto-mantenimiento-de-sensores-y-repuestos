@@ -2,9 +2,9 @@
 Aplicación de consola en Python para un centro técnico de sensores ambientales. Permite abrir órdenes de trabajo (OT), registrar servicios, repuestos y pruebas de calibración, luego cerrar y facturar las órdenes. Todos los movimientos se guardan en archivos CSV/TXT para conservar los datos y genera reportes de facturación y de inventario.
 
 # Configuracion inicial:
-1. Installar Python.
+1. Instalar Python.
 2. Descargar la carpeta proyectofinal 1.zip
-3. Extraer en el computador el archivo .zip
+3. Extraer en el computador el archivo .zip, descomprimirlo.
 4. Dentro del VSC ya se podrá abrir la carpeta que queda de la extracción: proyectofinal
 # De todas formas para más facilidad, en la carpeta .zip ya vienen todos los archivos necesarios para correr el programa.
 
